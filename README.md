@@ -6,13 +6,19 @@ This project scrapes job listings using the Adzuna API and analyzes job trends l
 
 ## 🔍 Features
 
-- ✅ Fetch jobs by location, role, and keyword using the Adzuna API  
-- ✅ Extract relevant skills from job descriptions  
+## ✅ Features
+
+- ✅ Fetch jobs by **location**, **role**, and **keyword** using the Adzuna API  
+- ✅ Extract **relevant skills** using enhanced pattern-based NLP and categorize them  
 - ✅ Analyze and visualize:
-  - Top in-demand skills  
-  - City-wise job distribution  
-  - Role-specific skill frequencies  
-- ✅ Export results to CSV and PNG  
-- ✅ Modular & extensible code
+  - 📌 Top **in-demand skill categories**
+  - 🔥 **Heatmap** of skills by job role  
+  - 🏙️ **City-wise job distribution**
+  - 👔 **Top hiring companies**
+  - 📈 **Experience-level distribution** from job descriptions
+  - ☁️ **Word cloud** of most-used terms in job postings  
+- ✅ Export results to **CSV** and **PNG** formats  
+- ✅ Fully modular, well-documented, and **extensible codebase** for future growth
+
 
 ---
